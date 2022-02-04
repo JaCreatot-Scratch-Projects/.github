@@ -6,6 +6,8 @@ If you are interested in contributing please check out the disscussion here: htt
 * This MUST be related to Scratch. Any projects other then those directly relating to this organization will be removed.
 * Feel free to play around with the uploaded projects! You must change the .zip to .sb3 before importing to Scratch.
 * If you think something should be changed feel free to let us know!
+#### Contacting Us
+* If you ever need to contact us you can always reach JacobM089 on his scratch profile, leave a comment and you will get a response in a timely manner.
 <!--
 
 **Here are some ideas to get you started:**
